@@ -13,5 +13,17 @@ div.divImgHolder {
 }
 
 div.divImgHolder img {
+  border-radius: 20px;
   width: 80%;
+}
+
+div.carousel img {
+  width: 100%;
+}
+
+#Bill-and-Melinda {
+  border-radius: 20px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
 }
